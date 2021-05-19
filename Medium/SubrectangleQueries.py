@@ -86,6 +86,9 @@ class SubrectangleQueries:
 
 
 # Tests:
+
+
+
 SubrectangleQuerie = SubrectangleQueries([[1,2,1],[4,3,4],[3,2,1],[1,1,1]])
 
 print()
